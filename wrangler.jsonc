@@ -12,7 +12,7 @@
       "pattern": "url.ttymayor.com",
       "custom_domain": true
     }
-  ]
+  ],
   "compatibility_date": "2025-05-08",
   "compatibility_flags": [
     "nodejs_compat"
